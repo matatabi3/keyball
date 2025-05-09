@@ -26,6 +26,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_MASKED
 #define DEBOUNCE            5
 #define DIODE_DIRECTION     COL2ROW
+#define WAIT_FOR_USB
 
 // Split parameters
 #define SOFT_SERIAL_PIN         D2
