@@ -27,6 +27,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEBOUNCE            5
 #define DIODE_DIRECTION     COL2ROW
 #define WAIT_FOR_USB
+#define TAPPING_TERM 200
+#define PERMISSIVE_HOLD
+#define TAPPING_FORCE_HOLD
 
 // Split parameters
 #define SOFT_SERIAL_PIN         D2
